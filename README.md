@@ -12,3 +12,6 @@ The dependencies for running code in Python for simple linear regression are sim
 **matplotlib or seaborn** : These libraries are used for visualization, to plot the regression line on a scatter plot.
 
 Other than these libraries, you may also need some of the standard Python libraries like math, statistics, csv etc. that provides basic functionality like mathematical operations, statistical measures and reading csv file etc.
+
+'''import pandas as pd
+   import matplotlib.pyplot as plt'''
